@@ -1,7 +1,7 @@
 ---
 title: Rebecca Wald
 role: PhD Candidate in Communication Science
-avatar_filename: rebecca_photo.jpg
+avatar_filename: avatar.jpg
 bio: "My name is Rebecca and I consider myself a behavioural scientist,
   HCI-enthusiast, minimalist, yogi, slow-fashionist, and optimist. As a PhD
   Candidate at the Amsterdam School of Communication Research I am investigating
