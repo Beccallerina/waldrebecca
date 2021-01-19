@@ -15,7 +15,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/RebeccaWald_
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -24,25 +24,23 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/rebecca-wald-portfolio/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universiteit van Amsterdam / Amsterdam School of Communication Research
+      (ASCoR)
+    url: https://ascor.uva.nl/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: M.Sc. (Research) Behavioural Science
+      institution: Radboud Universiteit, Nijmegen
+      year: 2018
+    - course: B.A. Communication Science
+      institution: Westfälische Wilhelms-Universität, Münster
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
 ---
-Rebecca Wald is a PhD Candidate in Communication Science at the Amsterdam School of Communication Research (ASCoR). Her research interests include Human-Computer Interaction, virtual assistants, and families' technology acceptance. She is part of the Youth and Media Entertanment program group at ASCoR, co-organizer of the , and a member of the sHAI (social Human-agent-Interaction) lab group at Radboud University (Nijmegen, NL). 
+Rebecca Wald is a PhD Candidate in Communication Science at the Amsterdam School of Communication Research (ASCoR). Her research interests include Human-Computer Interaction, virtual assistants, and families' technology acceptance. She is part of the Youth and Media Entertainment program group at ASCoR, co-organizer of the , and a member of the sHAI (social Human-Agent-Interaction) lab group at Radboud University (Nijmegen, NL). 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
