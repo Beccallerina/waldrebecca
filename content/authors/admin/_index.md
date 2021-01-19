@@ -32,10 +32,10 @@ organizations:
 education:
   courses:
     - course: M.Sc. (Research) Behavioural Science
-      institution: Radboud Universiteit, Nijmegen
+      institution: Radboud Universiteit, Nijmegen (NL)
       year: 2018
     - course: B.A. Communication Science
-      institution: Westfälische Wilhelms-Universität, Münster
+      institution: Westfälische Wilhelms-Universität, Münster (GER)
       year: 2018
 email: ""
 superuser: true
