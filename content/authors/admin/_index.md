@@ -45,6 +45,4 @@ highlight_name: false
 ---
 Rebecca Wald is a PhD Candidate in Communication Science at the Amsterdam School of Communication Research (ASCoR). Her research interests include Human-Computer Interaction, virtual assistants, and families' technology acceptance. She is part of the Youth and Media Entertainment program group at ASCoR, co-organizer of the , and a member of the sHAI (social Human-Agent-Interaction) lab group at Radboud University (Nijmegen, NL). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_RebeccaWald.pdf" "newtab" >}}resumé{{< /staticref >}}. 
-
-{{% staticref "CV_RebeccaWald.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "CV_RebeccaWald.pdf" "newtab" >}}resumé{{< /staticref >}}.
