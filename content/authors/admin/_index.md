@@ -16,15 +16,17 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/RebeccaWald_
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Beccallerina
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/rebecca-wald-portfolio/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: instagram
+    link: https://www.instagram.com/heybeccallerina/
 organizations:
   - name: Universiteit van Amsterdam / Amsterdam School of Communication Research
       (ASCoR)
