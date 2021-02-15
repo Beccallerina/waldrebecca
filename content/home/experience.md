@@ -40,5 +40,11 @@ Read more about Project Rosie in my blogposts on my PhD journey.
     date_end: '2020-07-01'
     description: At Y.Digital I had the chance to gain first work experience in data science and software development. Working together with the great team at Y, parallel to finishing up my master thesis, allowed me to see aspects of my studies put into practice. It was super interesting to be involved in real business cycles of NLP use cases (i.e., text classification, semantic search) and to look over the shoulders of my talented colleagues. Under their guidance I gained first experience with version control (i.e., git and GitHub) as well as Python, and SQL. It was a great pleasure to be part of the Y family, watch a young start-up taking big steps forward, and to form valuable future connections. Since my heart laid in research afterall, I decided to end my time early at Y and accepted a PhD position on the use of virtual assistants in families. Nevertheless, I am grateful for my time at Y and am sure that paths will cross again some time.
 
-​
+  - title: Student Assistant
+    company: Behavioural Science Institute Office
+    company_url: ''
+    location: Nijmegen, NL
+    date_start: '2020-05-01'
+    date_end: '2020-07-01'
+    description: At...
 ---
