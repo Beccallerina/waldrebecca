@@ -35,7 +35,7 @@ education:
   courses:
     - course: M.Sc. (Research) Behavioural Science
       institution: Radboud Universiteit, Nijmegen (NL)
-      year: 2018
+      year: 2019
     - course: B.A. Communication Science
       institution: Westfälische Wilhelms-Universität, Münster (GER)
       year: 2018
