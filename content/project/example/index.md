@@ -1,9 +1,9 @@
 ---
-title: Example Project
+title: Project Rosie
 summary: An example of using the in-built project page.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- PhD project
+date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
