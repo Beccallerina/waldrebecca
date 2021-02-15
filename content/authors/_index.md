@@ -6,4 +6,11 @@ cascade:
   _build:
     render: never
     list: always
+
+# Generate Wowchemy CMS
+type: wowchemycms
+outputs:
+  - wowchemycms_config
+  - HTML
 ---
+
